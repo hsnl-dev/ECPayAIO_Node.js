@@ -56,7 +56,7 @@
                 <option>JPN</option>
                 <option>CHI</option>
             </param>
-            <param type="Opt"  require="0" name="BidingCard">
+            <param type="Opt"  require="0" name="BindingCard">
                 <option>1</option>
                 <option>0</option>
             </param>
