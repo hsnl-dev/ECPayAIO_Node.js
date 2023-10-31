@@ -1,19 +1,19 @@
 <?xml  version="1.0" encoding="utf-8"?>
 <Conf>
     <OperatingMode>Production</OperatingMode> <!--Test or Production-->
-    <MercProfile>Production_Account</MercProfile>
+    <MercProfile>Stage_Account</MercProfile>
     <IsProjectContractor>N</IsProjectContractor>
     
     <MerchantInfo>
-        <MInfo name="Production_Account">
-            <MerchantID>3315213</MerchantID>
-            <HashKey>v3GllSVtz2osbk7E</HashKey>
-            <HashIV>B6ANUf6ikgg6gzgX</HashIV>
-        </MInfo>
+<!--         <MInfo name="Production_Account">
+            <MerchantID>3292181</MerchantID>
+            <HashKey>PxZ5JywtxFw4Vmus</HashKey>
+            <HashIV>7rRRWBTLNcF0xgOX</HashIV>
+        </MInfo> -->
         <MInfo name="Stage_Account">
-            <MerchantID>2000132</MerchantID>
-            <HashKey>5294y06JbISpM5x9</HashKey>
-            <HashIV>v77hoKGq4kWxNNIS</HashIV>
+            <MerchantID>3292181</MerchantID>
+            <HashKey>PxZ5JywtxFw4Vmus</HashKey>
+            <HashIV>7rRRWBTLNcF0xgOX</HashIV>
         </MInfo>
     </MerchantInfo>
     
